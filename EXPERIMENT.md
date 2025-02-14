@@ -1,0 +1,2 @@
+|  ![General Overview](https://raw.githubusercontent.com/pymc-devs/brand/main/pymc/pymc_logos/PyMC_square.svg) **General Overview** | ![Simple Linear Regression](https://www.pymc.io/projects/examples/en/latest/_images/glm_linear.png) **Simple Linear Regression** | ![General API quickstart](https://www.pymc.io/projects/examples/en/latest/_images/api_quickstart.png) **General API quickstart** |
+|-------------- | -------------- | -------------- | 
